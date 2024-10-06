@@ -48,7 +48,7 @@ assert lib.asserts.assertOneOf "withPrecision" withPrecision [ "single" "double"
 stdenv.mkDerivation rec {
   pname = "godot_4-mono";
   version = "4.3-dev3";
-  commitHash = "83ff6d75da706f203ed7aea651c890d9b391b9da";
+  commitHash = "f4af8201bac157b9d47e336203d3e8a8ef729de2";
   sourceHash = "sha256-qgAbs0jxl39FwGQVMeN9Se0BCTY9tv8RQhQr+pU5ThA=";
 
   src = fetchFromGitHub {
