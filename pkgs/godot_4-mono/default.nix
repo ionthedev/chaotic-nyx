@@ -53,7 +53,7 @@ stdenv.mkDerivation rec {
 
   src = fetchFromGitHub {
     owner = "godotengine";
-    repo = "godot-builds";
+    repo = "godot";
     rev = commitHash;
     hash = sourceHash;
   };
