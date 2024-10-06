@@ -235,9 +235,9 @@
     hash = "sha256-ySyNpRodd6R6qKnGrgwLYaiHZga2GL0fQARrYGIFa6k=";
   })
   (fetchNuGet {
-    pname = "Microsoft.NETCore.App.Host.win-x86";
-    version = "6.0.33";
-    hash = "sha256-OybB5ATvnnPEsKAdn5a/UdjSPcT78wlf38YNmuRWBZg=";
+    pname = "Microsoft.NETCore.App.Host.linux-x64";
+    version = "8.0.7";
+    hash = "sha256-Hi/PhR7YDn7kKLcOGymy90BX+a9jOTmheLetKlOuhW0=";
   })
   (fetchNuGet {
     pname = "Microsoft.NETCore.App.Ref";
