@@ -237,7 +237,7 @@
   (fetchNuGet {
     pname = "Microsoft.NETCore.App.Host.linux-x64";
     version = "8.0.7";
-    hash = "15ki8y9607dw4ldixy041v3s6ld36j7r8gdhn31y6ffp0ij0s9p6";
+    hash = "sha256-5iYNZATXOePDsLA9lI80o1Gjxw4E+B4bJbwdYJJHcZY=";
   })
   (fetchNuGet {
     pname = "Microsoft.NETCore.App.Ref";
