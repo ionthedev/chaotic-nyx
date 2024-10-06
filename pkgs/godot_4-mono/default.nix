@@ -49,7 +49,7 @@ stdenv.mkDerivation rec {
   pname = "godot_4-mono";
   version = "4.3-dev3";
   commitHash = "f4af8201bac157b9d47e336203d3e8a8ef729de2";
-  sourceHash = "sha256-qgAbs0jxl39FwGQVMeN9Se0BCTY9tv8RQhQr+pU5ThA=";
+  sourceHash = "sha256-K9AWkLnWCyIXPkFUkdAJbJuldrrrOX/8Ysun2iIdelI=";
 
   src = fetchFromGitHub {
     owner = "godotengine";
