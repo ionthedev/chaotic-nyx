@@ -1319,4 +1319,11 @@
     version = "2.4.5";
     hash = "sha256-Gv7U1VPKfNb7IOWrwUGUKAeurKtE3AtQmegDFNkYHHk=";
   })
+  (fetchNuGet {
+  pname = "Godot.NET.Sdk";
+  version = "4.4.0-dev.3";
+  hash = "sha256-cO4v+iig0Lq7XTIgGwadc4/SaQNXkLnKS6zUyVhmXY8=";  # Use the hash obtained from `nix-prefetch-url`
+})
+
+
 ]
